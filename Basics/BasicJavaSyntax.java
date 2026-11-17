@@ -7,7 +7,7 @@ class basicjava{
 
         System.out.println("Enter your name:");
         String name = sc.next();
-        System.out.println("Enter age:");
+        System.out.println("Enter your age:");
         int age = sc.nextInt();
         sc.nextLine();
         System.out.println("Enter your college:");
