@@ -1,5 +1,3 @@
-package Abstraction;
-
 abstract  class ProgrammingLanguage{
     float executionTime;
     int memoryUsed;
