@@ -1,5 +1,3 @@
-package Array;
-
 public class IntroToArray {
     public static void main(String[] args) {
 
